@@ -38,10 +38,10 @@
 ## 📈 Статистика GitHub
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islam123&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&count_private=true&theme=tokyonight)
 
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Islam123&theme=tokyonight),
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Islam0122&theme=tokyonight),
 
 ## 📫 Связаться со мной
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/duishobaevislam01/)
