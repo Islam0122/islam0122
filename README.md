@@ -43,6 +43,9 @@
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Islam0122&theme=tokyonight),
 
+## 📊 Статистика по языкам
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&langs_count=10&theme=tokyonight)
+
 ## 📫 Связаться со мной
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/duishobaevislam01/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/duishobaevislam01)
