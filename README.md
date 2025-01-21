@@ -39,6 +39,8 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 🎯 Codewars Stats
+![Codewars Badge](https://www.codewars.com/users/Islam0122/badges/large)
 
 ## 📈 Статистика GitHub
 
