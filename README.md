@@ -43,7 +43,7 @@
 ![Codewars Badge](https://www.codewars.com/users/Islam0122/badges/large)
 
 ## 🎯 WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@islam0122)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=islam0122)
 
 ## 📈 Статистика GitHub
 
