@@ -43,7 +43,7 @@
 ![Codewars Badge](https://www.codewars.com/users/Islam0122/badges/large)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=IslamDev&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=islam0122&theme=onedark)
 
 ## 📈 Статистика GitHub
 ### GitHub Stats
