@@ -50,18 +50,8 @@
 
 ---
 
-## 🌟 Избранные проекты
-### 🔥 **Мои лучшие проекты**
-- 🛍️ **[E-commerce Store](https://github.com/Islam0122/shop-project)** — интернет-магазин на Django с аутентификацией и отзывами.
-- 🎵 **[Музыкальный бот](https://github.com/Islam0122/music-bot)** — Telegram-бот для поиска и скачивания музыки.
-- 🎓 **[StudyBot](https://github.com/Islam0122/studybot)** — бот для студентов, облегчающий выполнение домашних заданий.
-- ⚛️ **[React-приложение](https://github.com/Islam0122/react-project)** — современное веб-приложение на React + Redux + TypeScript + SCSS + Tailwind CSS.
-
----
-
 ## 🏆 Статистика и достижения
 
-![trophy](https://github-profile-trophy.vercel.app/?username=islam0122&theme=onedark)
 
 ### 📈 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&count_private=true&theme=tokyonight)
