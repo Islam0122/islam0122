@@ -60,6 +60,9 @@
 ---
 
 ## 🏆 Статистика и достижения
+
+![trophy](https://github-profile-trophy.vercel.app/?username=islam0122&theme=onedark)
+
 ### 📈 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&count_private=true&theme=tokyonight)
 
