@@ -57,7 +57,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&count_private=true&theme=tokyonight)
 
 ### 🔥 **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Islam0122)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=islam0122)](https://git.io/streak-stats)
 
 ### 📊 **Часто используемые языки**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&langs_count=10&theme=tokyonight)
