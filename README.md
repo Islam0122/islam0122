@@ -14,30 +14,40 @@
 ## ⚙️ Мой стек технологий
 
 <p align="left">
-  🖥 Backend
+  🖥 <b>Backend</b> → 
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
 </p>
+
 <p align="left">
-  🌐 <b>Frontend</b> 
-  <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,tailwind,scss,bootstrap,html,css&theme=dark" />
+  🌐 <b>Frontend</b> → 
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
 </p>
+
 <p align="left">
-  🗄️ <b>Database</b> 
+  🗄️ <b>Database</b> → 
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 </p>
+
 <p align="left">
-  ⚙️ <b>DevOps / Tools</b> 
+  ⚙️ <b>DevOps / Tools</b> → 
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp&theme=dark" />
 </p>
+
 <p align="left">
-  💡 <b>Async & Extras</b> 
+  💡 <b>Async & Extras</b> → 
   <img src="https://skillicons.dev/icons?i=celery,rabbitmq,graphql&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   🤖 <b>Telegram & Bots</b> → 
   <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
 </p>
+
+<p align="left">
+  🤖 <b>AI / ML</b> → 
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+</p>
+
 
 
 ---
