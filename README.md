@@ -1,9 +1,6 @@
 <!-- ✨ HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=50&fontColor=fff&fontAlignY=40&desc=Backend%20Dev%20|%20Frontend%20Dev%20💻&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=50&fontColor=fff&fontAlignY=40&desc=💻Backend%20|%20⚡%20Frontend%20|%20🤖%20TelegramBot&descAlignY=60)
 
-<p align="center">
-  💻 Backend | ⚡ Frontend | 🤖 Telegram Bot 
-</p>
 
 ---
 
