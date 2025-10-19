@@ -24,7 +24,7 @@
 ## ⚙️ Мой стек технологий
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,aiogram,docker,git,linux,postman,vscode,pycharm,github&theme=dark,tg" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,aiogram,docker,git,linux,postman,vscode,pycharm,github&theme=dark" />
 </p>
 
 ---
@@ -43,9 +43,10 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" height="205"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="205"/>
 </p>
+
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/>
