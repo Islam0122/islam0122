@@ -21,7 +21,7 @@
 
 <p align="left">
   🌐 <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
 </p>
 
 <p align="left">
