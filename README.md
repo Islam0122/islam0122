@@ -43,8 +43,8 @@
 ## 📊 GitHub Статистика
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="left">
