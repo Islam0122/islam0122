@@ -15,7 +15,7 @@
 
 <p align="left">
   🖥 <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" /> aiogram
 </p>
 
 <p align="left">
@@ -31,11 +31,6 @@
 <p align="left">
   ⚙️ <b>DevOps / Tools</b><br>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp,api&theme=dark" />
-</p>
-
-<p align="left">
-  🤖 <b>Telegram & Bots</b><br>
-  ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 </p>
 
 ---
