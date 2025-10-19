@@ -13,13 +13,14 @@
 ---
 ## ⚙️ Мой стек технологий
 
-<p align="center">
+<p align="left">
   🖥 <b>Backend / Telegram Bot</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,graphql&theme=dark" style="margin-right:8px;" />
-  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/_static/celery-icon.svg" width="30" style="vertical-align:middle; margin-right:5px;" />
-  <img src="https://raw.githubusercontent.com/aiogram/aiogram/master/docs/logo.svg" width="30" style="vertical-align:middle; margin-right:5px;" />
-  <span style="font-size:18px; color:#888; vertical-align:middle;">parser</span>
+  <span style="font-size:16px; color:#888; margin-left:10px;">
+    celery | aiogram | parser | SQLAlchemy | Tortoise ORM | JWT | OAuth2 | aiohttp | BeautifulSoup
+  </span>
 </p>
+
 
 <p align="left">
   🌐 <b>Frontend</b><br>
