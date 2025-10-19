@@ -76,7 +76,7 @@
 
 ## 📬 Связаться со мной
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/duishobaevislam01">
 <img src="https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
