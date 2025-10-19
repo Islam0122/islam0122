@@ -15,7 +15,7 @@
 
 <p align="left">
   🖥 <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,dry,rabbitmq,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" />
 </p>
 
 <p align="left">
@@ -31,11 +31,6 @@
 <p align="left">
   ⚙️ <b>DevOps / Tools</b><br>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp,api&theme=dark" />
-</p>
-
-<p align="left">
-  💡 <b>Async & Extras</b><br>
-  <img src="https://skillicons.dev/icons?i=celery,rabbitmq,graphql,pytest&theme=dark" />
 </p>
 
 <p align="left">
