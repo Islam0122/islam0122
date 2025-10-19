@@ -13,26 +13,20 @@
 ---
 ## ⚙️ Мой стек технологий
 
-<p align="center">
-  🖥 <b>Backend</b> → 
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
+<p align="left">
+  🖥 <b>Backend</b> → <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
 </p>
-
-<p align="center">
-  🌐 <b>Frontend</b> → 
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
+<p align="left">
+  🌐 <b>Frontend</b> → <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,tailwind,scss,bootstrap,html,css&theme=dark" />
 </p>
-
 <p align="center">
   🗄️ <b>Database</b> → 
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 </p>
-
 <p align="center">
   ⚙️ <b>DevOps / Tools</b> → 
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp&theme=dark" />
 </p>
-
 <p align="center">
   💡 <b>Async & Extras</b> → 
   <img src="https://skillicons.dev/icons?i=celery,rabbitmq,graphql&theme=dark" />
