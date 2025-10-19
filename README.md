@@ -1,9 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:38B2AC,100:1E3A8A&height=200&section=header&text=Islam%20Duishobaev🚀&fontSize=45&fontColor=fff)
+
 <h1 align="left">Привет, я Ислам Дуйшобаев! 🚀</h1>
 <p align="left">
   Добро пожаловать в мой уголок на GitHub! Здесь я делюсь своими проектами, идеями и опытом в мире веб-разработки.  
   Люблю создавать крутые вещи, изучать новые технологии и делиться знаниями! 😎  
 </p>
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:38B2AC,100:1E3A8A&height=200&section=header&text=Islam%20Duishobaev🚀&fontSize=45&fontColor=fff)
 
 ---
 
