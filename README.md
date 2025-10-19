@@ -35,7 +35,7 @@
 
 <p align="left">
   🤖 <b>Telegram & Bots</b><br>
-  [Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+  ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 </p>
 
 ---
