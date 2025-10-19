@@ -11,40 +11,42 @@
 - 🌍 Владею кыргызским, русским и английским языками
 
 ---
-
 ## ⚙️ Мой стек технологий
 
-<<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=200&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=35&desc=Backend%20Developer%20|%20Full-Stack%20Enthusiast" />
+<p align="center">
+  🖥 <b>Backend</b> → 
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
 </p>
 
----
-
-### 🖥 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mongodb,sqlite,redis,celery,rabbitmq,rest,websockets&theme=dark" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
+  🌐 <b>Frontend</b> → 
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
 </p>
 
-### ⚙️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,api,heroku,aws,gcp&theme=dark" />
+  🗄️ <b>Database</b> → 
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 </p>
 
-### 🤖 Telegram & Bots & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=telegram,openai&theme=dark" />
+  ⚙️ <b>DevOps / Tools</b> → 
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp&theme=dark" />
 </p>
 
-### 💡 Extras & Async
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=celery,redis,rabbitmq,graphql&theme=dark" />
+  💡 <b>Async & Extras</b> → 
+  <img src="https://skillicons.dev/icons?i=celery,rabbitmq,graphql&theme=dark" />
 </p>
 
+<p align="center">
+  🤖 <b>Telegram & Bots</b> → 
+  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
+</p>
+
+<p align="center">
+  🤖 <b>AI / ML</b> → 
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+</p>
 
 ---
 
