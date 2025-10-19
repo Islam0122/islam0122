@@ -42,17 +42,17 @@
 
 ## 📊 GitHub Статистика
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
