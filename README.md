@@ -15,9 +15,10 @@
 
 <p align="left">
   🖥 <b>Backend / Telegram Bot</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" />
-  <span> | celery | aiogram | parser</span>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,graphql&theme=dark" />
+  <span style="font-size:14px; color:#888;"> | celery | aiogram | parser</span>
 </p>
+
 
 
 
