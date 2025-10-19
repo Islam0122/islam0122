@@ -1,7 +1,7 @@
 <!-- ✨ HEADER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=40&desc=Backend%20Developer%20|%20Fullstack%20in%20progress%20💻&descAlignY=60)
 
-<p align="left">
+<p align="center">
 💡 Люблю превращать идеи в код и делать жизнь проще с помощью технологий.  
 🔍 Хочешь увидеть мои проекты и навыки? Листай вниз 👇
 </p>
@@ -74,7 +74,7 @@
 
 ## 📬 Связаться со мной
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/duishobaevislam01">
 <img src="https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
