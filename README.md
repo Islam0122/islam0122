@@ -13,43 +13,35 @@
 ---
 ## ⚙️ Мой стек технологий
 
-<p align="center">
+<p align="left">
   🖥 <b>Backend</b><br>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   🌐 <b>Frontend</b><br>
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   🗄️ <b>Database</b><br>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   ⚙️ <b>DevOps / Tools</b><br>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp,api&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   💡 <b>Async & Extras</b><br>
   <img src="https://skillicons.dev/icons?i=celery,rabbitmq,graphql,pytest&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   🤖 <b>Telegram & Bots</b><br>
   <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
 </p>
-
-<p align="center">
-  🤖 <b>AI / ML</b><br>
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-</p>
-
-
-
 
 ---
 
