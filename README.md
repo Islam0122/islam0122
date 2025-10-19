@@ -14,9 +14,37 @@
 
 ## ⚙️ Мой стек технологий
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,docker,git,linux,postman,github,graphql,jquery,html,css,nginx,rabbitmq&theme=dark" />
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=200&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=35&desc=Backend%20Developer%20|%20Full-Stack%20Enthusiast" />
 </p>
+
+---
+
+### 🖥 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mongodb,sqlite,redis,celery,rabbitmq,rest,websockets&theme=dark" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,api,heroku,aws,gcp&theme=dark" />
+</p>
+
+### 🤖 Telegram & Bots & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=telegram,openai&theme=dark" />
+</p>
+
+### 💡 Extras & Async
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=celery,redis,rabbitmq,graphql&theme=dark" />
+</p>
+
 
 ---
 
