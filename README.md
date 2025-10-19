@@ -14,7 +14,7 @@
 ## ⚙️ Мой стек технологий
 
 <p align="left">
-  🖥 <b>Backend</b>
+  🖥 Backend
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
 </p>
 <p align="left">
@@ -39,10 +39,6 @@
   <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
 </p>
 
-<p align="center">
-  🤖 <b>AI / ML</b> → 
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-</p>
 
 ---
 
