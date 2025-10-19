@@ -96,6 +96,4 @@
 > *“Код — это способ превратить идеи в реальность.”* 💡  
 > — **Islam Duishobaev**
 
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:1E3A8A&height=120&section=footer)
