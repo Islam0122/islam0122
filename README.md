@@ -1,9 +1,6 @@
 <!-- ✨ HEADER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=50&fontColor=fff&fontAlignY=40&desc=💻Backend%20|%20⚡%20Frontend%20|%20🤖%20TelegramBot&descAlignY=60)
 
-
----
-
 ## 🧠 Немного обо мне
 
 - 🎯 Backend-разработчик, изучаю Frontend для полного стека  
