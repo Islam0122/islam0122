@@ -15,7 +15,7 @@
 ## ⚙️ Мой стек технологий
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,aiogram,docker,git,linux,postman,vscode,pycharm,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,aiogram,celery,api,docker,git,linux,postman,vscode,pycharm,github,graphql,jquery,html,css,linux,nginx,gunicorn,rabbitmq,swagger&theme=dark" />
 </p>
 
 ---
