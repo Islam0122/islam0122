@@ -16,9 +16,6 @@
 <p align="left">
   🖥 <b>Backend / Telegram Bot</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,graphql&theme=dark" style="margin-right:8px;" />
-  <span style="font-size:16px; color:#888; margin-left:10px;">
-    celery | aiogram | parser | SQLAlchemy | Tortoise ORM | JWT | OAuth2 | aiohttp | BeautifulSoup
-  </span>
 </p>
 
 
