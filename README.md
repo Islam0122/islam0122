@@ -14,9 +14,13 @@
 ## ⚙️ Мой стек технологий
 
 <p align="left">
-  🖥 <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" /> aiogram
+  🖥 <b>Backend / Telegram Bot</b><br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,rabbitmq,graphql&theme=dark" />
+  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/_static/celery-icon.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/aiogram/aiogram/master/docs/logo.svg" width="30" />
+  parser
 </p>
+
 
 <p align="left">
   🌐 <b>Frontend</b><br>
