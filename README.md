@@ -15,7 +15,7 @@
 
 <p align="left">
   🖥 <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rest,websockets&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,dry,rabbitmq,graphql&theme=dark" />
 </p>
 
 <p align="left">
