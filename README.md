@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=40&desc=Backend%20Developer%20|%20Fullstack%20in%20progress%20💻&descAlignY=60)
 
 
-<p align="center">
+<p align="left">
   Люблю писать код, автоматизировать процессы и создавать полезные приложения 🌍  
   Стремлюсь стать сильным fullstack-разработчиком и развиваться в IT каждый день 💡
 </p>
@@ -23,7 +23,7 @@
 ## ⚙️ Мой стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,docker,git,linux,postman,vscode,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,aiogram,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,docker,git,linux,postman,vscode,pycharm&theme=dark" />
 </p>
 
 ---
