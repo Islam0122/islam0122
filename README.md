@@ -1,29 +1,23 @@
 <!-- ✨ HEADER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=40&desc=Backend%20Developer%20|%20Fullstack%20in%20progress%20💻&descAlignY=60)
 
-<h3 align="left">Привет! Я Ислам Дуйшобаев — создаю Backend и Fullstack решения 🚀</h3>
-
-<p align="left">
-💡 Люблю превращать идеи в код и делать жизнь проще с помощью технологий.  
-🔍 Хочешь увидеть мои проекты и навыки? Листай вниз 👇
-</p>
+<h3 align="center">Привет! Я Ислам Дуйшобаев — Backend / Fullstack Developer</h3>
+<p align="center">💡 Люблю кодить, создавать ботов и интерфейсы, превращать идеи в реальность 🌍</p>
 
 ---
 
-## 🧠 Немного обо мне
-
+## 🧠 Обо мне
 - 🎯 Backend-разработчик, изучаю Frontend для полного стека  
-- 💡 Python, Django, DRF, FastAPI — мои инструменты магии 🪄  
-- 🤖 Telegram-боты на Aiogram — мои маленькие ассистенты  
-- 🖥 Frontend: React, Redux, TypeScript — делаю интерфейсы живыми  
+- 🤖 Telegram-боты на **Aiogram**  
+- 🖥 Frontend: React · Redux · TypeScript  
+- 💡 Python · Django · DRF · FastAPI  
 - 🌱 Люблю чистый код и интересные проекты  
 - 🌍 Владею кыргызским, русским и английским языками
 
 ---
 
-## ⚙️ Мой стек технологий
-
-<p align="center">
+## ⚡ Навыки
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,sqlite,mongodb,redis,react,redux,typescript,tailwind,scss,bootstrap,aiogram,docker,git,linux,postman,vscode,pycharm,github&theme=dark" />
 </p>
 
@@ -31,51 +25,56 @@
 
 ## 🚀 Мои проекты
 
-| 📁 Проект | 📜 Что интересного | 🚀 Технологии |
-|------------|-----------------|----------------|
-| [**99 Pet Projects**](https://github.com/Islam0122/99_pet_projects_backend) | Лаборатория идей и экспериментов, где я тестирую новые технологии | Python · Django · DRF · FastAPI · Aiogram |
-| [**Kolos Back-End**](https://github.com/Islam0122/kolos_back_end) | CRM для пивного завода 🍺 — автоматизация процессов и управление данными | Python · Django · DRF · PostgreSQL |
-| [**EduQuiz Back-end**](https://github.com/Islam0122/EduQuiz_back-end) | Образовательная платформа с ботом 🎓 — хранение результатов и тестов | Python · Django · DRF · PostgreSQL |
-| [**World Up KG TelegramBot**](https://github.com/Islam0122/world_up_kg_TelegramBot) | Бот для одежды и обуви 👕👟 — персональные рекомендации и быстрые заказы | Python · Aiogram · SQLite |
+<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
+
+<!-- 99 Pet Projects -->
+<div style="border-radius:10px; border:1px solid #38B2AC; width:250px; padding:15px; text-align:center; transition:0.3s;">
+<img src="https://cdn-icons-png.flaticon.com/512/181/181547.png" width="60"/>
+<h4>99 Pet Projects</h4>
+<p>Лаборатория идей и экспериментов. Тестирую новые технологии</p>
+<a href="https://github.com/Islam0122/99_pet_projects_backend">Посмотреть на GitHub</a>
+</div>
+
+<!-- Kolos Back-End -->
+<div style="border-radius:10px; border:1px solid #38B2AC; width:250px; padding:15px; text-align:center; transition:0.3s;">
+<img src="https://cdn-icons-png.flaticon.com/512/222/222222.png" width="60"/>
+<h4>Kolos Back-End</h4>
+<p>CRM для пивного завода 🍺 — автоматизация процессов и управление данными</p>
+<a href="https://github.com/Islam0122/kolos_back_end">Посмотреть на GitHub</a>
+</div>
+
+<!-- EduQuiz Back-end -->
+<div style="border-radius:10px; border:1px solid #38B2AC; width:250px; padding:15px; text-align:center; transition:0.3s;">
+<img src="https://cdn-icons-png.flaticon.com/512/1995/1995550.png" width="60"/>
+<h4>EduQuiz Back-end</h4>
+<p>Образовательная платформа с Telegram-ботом 🎓 — хранение результатов и тестов</p>
+<a href="https://github.com/Islam0122/EduQuiz_back-end">Посмотреть на GitHub</a>
+</div>
+
+<!-- World Up KG TelegramBot -->
+<div style="border-radius:10px; border:1px solid #38B2AC; width:250px; padding:15px; text-align:center; transition:0.3s;">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="60"/>
+<h4>World Up KG Bot</h4>
+<p>Бот для выбора одежды и обуви 👕👟 — рекомендации и быстрые заказы</p>
+<a href="https://github.com/Islam0122/world_up_kg_TelegramBot">Посмотреть на GitHub</a>
+</div>
+
+</div>
 
 ---
 
 ## 📊 GitHub Статистика
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/>
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 Трофеи GitHub
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Islam0122&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" />
-</p>
-
----
-
-## 🐍 Анимация активности
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 📬 Связаться со мной
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/duishobaevislam01">
 <img src="https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -93,10 +92,7 @@
 ---
 
 ## 💬 Цитата
-
 > *“Код — это способ превратить идеи в реальность.”* 💡  
 > — **Islam Duishobaev**
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:1E3A8A&height=120&section=footer)
