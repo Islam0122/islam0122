@@ -1,8 +1,6 @@
 <!-- ✨ HEADER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=45&fontColor=fff&fontAlignY=40&desc=Backend%20Developer%20|%20Fullstack%20in%20progress%20💻&descAlignY=60)
 
-<h3 align="left">Привет! Я Ислам Дуйшобаев — создаю Backend и Fullstack решения 🚀</h3>
-
 <p align="left">
 💡 Люблю превращать идеи в код и делать жизнь проще с помощью технологий.  
 🔍 Хочешь увидеть мои проекты и навыки? Листай вниз 👇
