@@ -64,6 +64,16 @@
 
 ---
 
+## 📊 CodeWars 
+
+<p align="center">
+<img src="https://www.codewars.com/users/Islam0122/badges/large" height="170"/>
+</p>
+
+---
+
+
+
 ## 🏆 Трофеи GitHub
 
 <p align="center">
