@@ -80,13 +80,18 @@
 </p>
 
 ---
-## 📊 Dyolingo
+## 🦉 Duolingo
+
 <p align="center">
-
-[![Duolingo](https://img.shields.io/badge/Duolingo-duishobaevislam7-brightgreen?logo=duolingo)](https://www.duolingo.com/profile/duishobaevislam7)
-[Мой профиль Duolingo](https://www.duolingo.com/profile/duishobaevislam7)
-
+  <a href="https://www.duolingo.com/profile/duishobaevislam7">
+    <img src="https://img.shields.io/badge/Duolingo-duishobaevislam7-brightgreen?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
+  </a>
 </p>
+
+<p align="center">
+  🟢 <a href="https://www.duolingo.com/profile/duishobaevislam7">Мой профиль Duolingo</a>
+</p>
+
 
 ---
 
