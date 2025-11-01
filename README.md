@@ -76,6 +76,7 @@
 
 <p align="center">
 <img src="https://www.codewars.com/users/Islam0122/badges/large" height="170"/>
+  
 </p>
 
 ---
@@ -83,6 +84,8 @@
 <p align="center">
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-duishobaevislam7-brightgreen?logo=duolingo)](https://www.duolingo.com/profile/duishobaevislam7)
+[Мой профиль Duolingo](https://www.duolingo.com/profile/duishobaevislam7)
+
 </p>
 
 ---
