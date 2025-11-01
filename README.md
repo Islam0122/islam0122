@@ -79,7 +79,13 @@
 </p>
 
 ---
+## 📊 Dyolingo
+<p align="center">
 
+[![Duolingo](https://img.shields.io/badge/Duolingo-duishobaevislam7-brightgreen?logo=duolingo)](https://www.duolingo.com/profile/duishobaevislam7)
+</p>
+
+---
 
 
 ## 🏆 Трофеи GitHub
