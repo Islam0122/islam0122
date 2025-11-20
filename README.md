@@ -69,6 +69,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/>
 </p>
+<img src="https://readme-activity-graph.vercel.app/graph?username=islam0122&theme=github-dark&area=true"/>
 
 ---
 
