@@ -63,11 +63,11 @@
 </p>
 
 <p align="center">
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/> -->
-  <img src="https://readme-activity-graph.vercel.app/graph?username=islam0122&theme=github-dark&area=true"/>
+<img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/>
+  <!-- <img src="https://readme-activity-graph.vercel.app/graph?username=islam0122&theme=github-dark&area=true"/> -->
 </p>
 ---
 
