@@ -55,8 +55,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight" height="170"
-     onerror="this.src='https://raw.githubusercontent.com/Islam0122/Islam0122/main/assets/github-stats.png'"/>
+<img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight" />
+
 
 ## 📊 CodeWars 
 
