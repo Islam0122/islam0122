@@ -55,9 +55,8 @@
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/Islam0122?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Islam0122?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Islam0122?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight" height="170"
+     onerror="this.src='https://raw.githubusercontent.com/Islam0122/Islam0122/main/assets/github-stats.png'"/>
 
 ## 📊 CodeWars 
 
