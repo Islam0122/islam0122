@@ -58,12 +58,12 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Islam0122" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Islam0122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Islam0122" alt="GitHub Streak"/>
 </p>
 <p align="center">
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/> -->
