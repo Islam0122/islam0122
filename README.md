@@ -18,8 +18,8 @@
 
 <p align="left">
   🖥 <b>Backend / Telegram Bot</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,graphql&theme=dark" style="margin-right:8px;" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,Telegrambot,graphql&theme=dark" style="margin-right:8px;" />
+</p
 
 
 <p align="left">
