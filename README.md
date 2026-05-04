@@ -1,132 +1,61 @@
-<!-- ✨ HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38B2AC&height=220&section=header&text=Islam%20Duishobaev%20🚀&fontSize=50&fontColor=fff&fontAlignY=40&desc=💻Backend%20|%20⚡%20Frontend%20|%20🤖%20TelegramBot&descAlignY=60)
+# Islam Duishobaev
 
-## 🧠 Немного обо мне
+**Python Backend Developer** — APIs · Automation · Telegram Integrations
 
-- 🎯 Backend-разработчик, изучаю Frontend для полного стека  
-- 💡 Python, Django, DRF, FastAPI — мои магические инструменты 🪄  
-- 🤖 Telegram-боты на Aiogram — мои маленькие помощники  
-- 🖥 Frontend: React, Redux, TypeScript — делаю интерфейсы живыми  
-- 🌱 Люблю чистый код, оптимизацию и интересные проекты  
-- 🌍 Владею кыргызским, русским и английским языками
+I build production-grade Python backends: REST APIs, async task pipelines, and Telegram bot integrations.
+My focus is clean architecture, separated business logic, and systems that are ready for real workloads.
+Currently open to remote backend roles.
 
-
-
-
----
-## ⚙️ Мой стек технологий
-
-<p align="left">
-  🖥 <b>Backend / Telegram Bot</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,rabbitmq,Telegrambot,graphql&theme=dark" style="margin-right:8px;" />
-</p
-
-
-<p align="left">
-  🌐 <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,tailwind,scss,bootstrap,jquery,html,css&theme=dark" />
-</p>
-
-<p align="left">
-  🗄️ <b>Database</b><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
-</p>
-
-<p align="left">
-  ⚙️ <b>DevOps / Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,git,postman,heroku,aws,gcp,api&theme=dark" />
-</p>
+**Stack:** Python · Django · DRF · FastAPI · Celery · Redis · PostgreSQL · Aiogram · Docker
 
 ---
 
+## Featured Projects
 
+### Real Estate CRM — Lead & Agent Pipeline
 
+**Problem:** Real estate teams needed automated lead qualification and agent KPI visibility in one system.
 
+**Built:** REST API with a multi-stage lead pipeline, OpenAI-powered lead scoring, SendGrid transactional email, Telegram webhook bot for agent notifications, and Railway deployment with async Celery workers.
 
+**Result:** A production CRM with real-time AI scoring, Redis queuing, custom Django admin dashboards with KPI charts and bulk actions.
 
-## 🚀 Мои проекты
-
-| 📁 Проект | 📜 Особенности | 🚀 Технологии |
-|------------|-----------------|----------------|
-| [**99 Pet Projects**](https://github.com/Islam0122/99_pet_projects_backend) | Лаборатория идей и экспериментов — тестирую новые технологии | Python · Django · DRF · FastAPI · Aiogram |
-| [**Kolos Back-End**](https://github.com/Islam0122/kolos_back_end) | CRM для пивного завода 🍺 — автоматизация процессов и управление данными | Python · Django · DRF · PostgreSQL |
-| [**EduQuiz Back-end**](https://github.com/Islam0122/EduQuiz_back-end) | Образовательная платформа с ботом 🎓 — хранение результатов и тестов | Python · Django · DRF · PostgreSQL |
-| [**World Up KG TelegramBot**](https://github.com/Islam0122/world_up_kg_TelegramBot) | Бот для одежды и обуви 👕👟 — персональные рекомендации и быстрые заказы | Python · Aiogram · SQLite |
+`Django` `DRF` `Celery` `Redis` `OpenAI` `SendGrid` `PostgreSQL` `Railway`
 
 ---
 
-## 📊 GitHub Статистика
+### Educational Testing Platform — OkurmenKids
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Islam0122" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122" height="170"/>
-</p>
+**Problem:** Schools needed a gamified testing tool usable without student accounts or logins.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Islam0122" alt="GitHub Streak"/>
-</p>
-<p align="center">
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam0122&theme=tokyonight"/> -->
-<img src="https://readme-activity-graph.vercel.app/graph?username=islam0122&theme=github-dark&area=true"/>
+**Built:** Session-key identity system (no auth required), 4 in-browser games, XP/badge/leaderboard engine, timed exam flow, GigaChat-powered AI grading, and a vanilla JS admin dashboard.
 
+**Result:** 16-model Django backend + React/Zustand frontend with full gamification and zero-friction student onboarding.
 
-## 📊 CodeWars 
-
-<p align="center">
-<img src="https://www.codewars.com/users/Islam0122/badges/large" height="170"/>
-  
-</p>
-
-
+`Django` `DRF` `React` `Zustand` `PostgreSQL` `GigaChat API`
 
 ---
 
+### AI Answer Grading Pipeline
 
-## 🏆 Трофеи GitHub
+**Problem:** Manual grading of open-ended exam answers was a bottleneck at scale.
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Islam0122&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" />
-</p>
+**Built:** Async Celery pipeline that sends answers to a GigaChat LLM on submission (signal-driven), returns a score + feedback, and surfaces results in an admin metrics dashboard.
 
----
+**Result:** Fully automated open-answer evaluation — zero manual review needed for standard responses.
 
-## 🐍 Анимация активности
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+`Django` `Celery` `Redis` `GigaChat API` `PostgreSQL`
 
 ---
 
-## 📬 Связаться со мной
+## What I'm Building Next
 
-<p align="center">
-<a href="https://t.me/duishobaevislam01">
-<img src="https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="mailto:duishobaevislam01@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/duishobaevislam01/">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+**SaaS Webhook Dispatcher** — FastAPI service that receives webhooks from Stripe/GitHub/any provider, queues with Celery, retries with exponential backoff, and delivers to client URLs with a status dashboard.
 
+**Multi-Tenant REST API Boilerplate** — Production-ready FastAPI template with JWT auth, role-based access control, multi-tenancy, rate limiting, and complete OpenAPI docs.
 
 ---
 
-## 🔥 Моя цитата
+## Contact
 
-> *“Код — это способ превратить идеи в реальность.”* 💡 — **Islam Duishobaev**
-
----
-
-## ⚡ Дополнительно: динамические счетчики
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Islam0122&color=27A0D9&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Islam0122?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:1E3A8A&height=120&section=footer)
+[Telegram](https://t.me/duishobaevislam01) · [Email](mailto:duishobaevislam01@gmail.com) · [GitHub](https://github.com/Islam0122)
