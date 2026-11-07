@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Islam Duishobaev — Backend Developer</title>
+  <desc id="desc">Profile banner: Islam Duishobaev, Backend Developer, Full-Stack Developer and DevOps Enthusiast based in Kyrgyzstan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#16213b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7aa2f7" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#3d8bfd" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#3d8bfd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="240" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="240" rx="14" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- terminal-style prompt -->
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <text x="64" y="62" fill="#565f89">~/islam0122</text>
+    <text x="178" y="62" fill="#7dcfff">$</text>
+    <text x="194" y="62" fill="#a9b1d6">whoami</text>
+  </g>
+
+  <text x="62" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Islam Duishobaev</text>
+
+  <rect x="64" y="142" width="72" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="64" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#a9b1d6">
+    <tspan fill="#7aa2f7" font-weight="600">Backend Developer</tspan>
+    <tspan fill="#3b4261">  /  </tspan>
+    <tspan>Full-Stack Developer</tspan>
+    <tspan fill="#3b4261">  /  </tspan>
+    <tspan>DevOps Enthusiast</tspan>
+  </text>
+
+  <!-- location -->
+  <g transform="translate(64 198)" fill="#565f89">
+    <path d="M7 0C3.7 0 1 2.6 1 5.9 1 10.3 7 16 7 16s6-5.7 6-10.1C13 2.6 10.3 0 7 0Zm0 8.2A2.3 2.3 0 1 1 7 3.6a2.3 2.3 0 0 1 0 4.6Z"/>
+    <text x="22" y="13" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Kyrgyzstan</text>
+  </g>
+
+  <!-- abstract API diagram -->
+  <g transform="translate(860 52)" fill="none" stroke-width="1.5">
+    <rect x="0" y="40" width="96" height="40" rx="8" stroke="#3b4261" fill="#161b22"/>
+    <rect x="160" y="0" width="120" height="40" rx="8" stroke="#3b4261" fill="#161b22"/>
+    <rect x="160" y="80" width="120" height="40" rx="8" stroke="#3b4261" fill="#161b22"/>
+    <path d="M96 60H128V20H160M128 60V100H160" stroke="#7aa2f7" stroke-opacity="0.7"/>
+    <circle cx="128" cy="60" r="3.5" fill="#7dcfff" stroke="none"/>
+    <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#a9b1d6" stroke="none">
+      <text x="48" y="65" text-anchor="middle">client</text>
+      <text x="220" y="25" text-anchor="middle">api</text>
+      <text x="220" y="105" text-anchor="middle">workers</text>
+    </g>
+    <path d="M220 40V80" stroke="#3b4261" stroke-dasharray="3 4"/>
+  </g>
+</svg>

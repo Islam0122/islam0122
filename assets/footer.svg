@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Building reliable systems, one commit at a time.</title>
+  <desc id="desc">Footer banner with a thin blue-to-cyan line and the closing statement.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#7dcfff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="119" rx="14" fill="none" stroke="#30363d"/>
+  <rect x="300" y="38" width="600" height="1.5" fill="url(#line)"/>
+  <text x="600" y="76" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#a9b1d6">Building reliable systems, one commit at a time.</text>
+  <text x="600" y="100" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#565f89">github.com/Islam0122</text>
+</svg>

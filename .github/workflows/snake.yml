@@ -1,0 +1,42 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    # Once a day at 00:17 UTC (off the hour to avoid scheduler congestion)
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+# Least privilege: nothing by default, write only where the job needs it.
+permissions: {}
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Build and publish snake SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # required to push the generated files to the output branch
+
+    steps:
+      - name: Generate SVGs from the contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#2f6feb&color_dots=#ebedf0,#bfdbfe,#7aa2f7,#3b82f6,#1d4ed8
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7dcfff&color_dots=#1a1b27,#1e3a5f,#2563a8,#3d8bfd,#7dcfff
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          jekyll: false
+          commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
