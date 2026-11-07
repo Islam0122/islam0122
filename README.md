@@ -1,73 +1,123 @@
 # Islam Duishobaev
 
-**Python Backend Developer** — APIs · Async Systems · Business Automation
+### Backend Developer | Full-Stack Developer | DevOps Engineer
 
-I build scalable backend systems that automate business workflows and reduce manual operations.
-Clean architecture, real integrations, production deployments — not tutorials.
-Open to remote backend roles.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Development;Building+Scalable+Applications;Python+%7C+Django+%7C+FastAPI;Learning+%26+Building+Every+Day" />
+</p>
 
-**Stack:** Python · Django · DRF · FastAPI · Celery · Redis · PostgreSQL · Aiogram · Docker
-
----
-
-## Featured Projects
-
-### Educational Testing Platform — OkurmenKids
-
-**Problem:** Schools needed a gamified, zero-friction testing tool — no accounts, no logins, no IT setup.
-
-**Built:** Session-key identity system, 4 in-browser games, XP/badge/leaderboard engine, timed exam flow, and a vanilla JS admin dashboard. Full Django backend + React/Zustand frontend.
-
-**Impact:**
-- 500+ test sessions supported without a single user account
-- 16-model backend powering real-time leaderboards and XP progression
-- Admin dashboard gives teachers instant visibility into class performance
-
-`Django` `DRF` `React` `Zustand` `PostgreSQL`
-
-🔗 [Live Demo](https://test-okurmen-kids.vercel.app/)
+<p align="center">
+  <a href="https://github.com/Islam0122">
+    <img src="https://komarev.com/ghpvc/?username=Islam0122&style=flat-square&color=58A6FF" />
+  </a>
+</p>
 
 ---
 
-### Real Estate CRM — Lead & Agent Pipeline
+## About Me
 
-**Problem:** Real estate teams wasted hours on manual lead follow-up and had no visibility into agent performance.
+```python
+class Developer:
+    name = "Islam Duishobaev"
+    location = "Kyrgyzstan"
+    role = "Backend Developer"
 
-**Built:** REST API with multi-stage lead pipeline, SendGrid transactional email, Telegram webhook bot for agent notifications, Celery async workers, and a custom Django admin with KPI dashboards and bulk actions.
+    languages = ["Python", "JavaScript", "TypeScript"]
 
-**Impact:**
-- Reduced manual lead processing steps by ~60%
-- Email delivery pipeline handles 1,000+ notifications/day via async Celery workers
-- Agent KPI dashboard surfaces conversion rates and response times in real time
+    interests = [
+        "Backend Architecture",
+        "API Development",
+        "DevOps & Automation",
+        "Artificial Intelligence"
+    ]
 
-`Django` `DRF` `Celery` `Redis` `SendGrid` `PostgreSQL` `Railway`
-
----
-
-### AI Answer Grading Pipeline
-
-**Problem:** Open-ended exam answers required slow, expensive manual grading at scale.
-
-**Built:** Signal-driven Celery pipeline that submits answers to a GigaChat LLM on save, returns a score + feedback automatically, and surfaces results in an admin metrics dashboard.
-
-**Impact:**
-- Reduced average grading time from ~5 min/answer to under 10 seconds
-- Handles batch grading of 200+ answers per exam session
-- Zero manual review required for standard response patterns
-
-`Django` `Celery` `Redis` `GigaChat API` `PostgreSQL`
+    current_focus = "Building production-ready systems"
+    philosophy = "Consistency beats motivation."
+```
 
 ---
 
-## Why Hire Me
+## Tech Stack
 
-- **Backend-first** — APIs, async task systems, third-party integrations are my core, not an afterthought
-- **Real systems, not tutorials** — every project above runs in production or has a live demo
-- **Fast, autonomous** — I pick up new tools quickly and ship without hand-holding
-- **Honest about scope** — I know what I build well, and I communicate clearly when something is outside it
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,redis" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,bash" />
+</p>
 
 ---
 
-## Contact
+## GitHub Analytics
 
-[Telegram](https://t.me/duishobaevislam01) · [Email](mailto:duishobaevislam01@gmail.com) · [GitHub](https://github.com/Islam0122)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Islam0122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Islam0122&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam0122&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Islam0122/Islam0122/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+
+## 365 Days of Code
+
+**The goal is not to code every day just to maintain a streak. The goal is to become a better engineer every day.**
+
+| Goal | Target |
+|---|---:|
+| Daily Coding | 365 Days |
+| Production Projects | 12 |
+| Backend Projects | 6 |
+| Open Source Contributions | 50 |
+| DevOps Projects | 3 |
+| System Design | Continuous |
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Islam0122">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Building systems. Solving problems. Improving continuously.</sub>
+</p>
