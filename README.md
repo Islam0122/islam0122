@@ -4,6 +4,7 @@
 
 <br />
 
+
 <a href="https://github.com/Islam0122">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=7DCFFF&center=true&vCenter=true&width=560&lines=Backend+systems+with+Python+and+Django;REST+APIs+with+DRF+and+FastAPI;Async+pipelines+with+Celery+and+Redis;Telegram+bots+with+Aiogram" alt="Typing animation: Backend systems with Python and Django, REST APIs with DRF and FastAPI, async pipelines with Celery and Redis, Telegram bots with Aiogram" />
 </a>
